@@ -26,3 +26,7 @@
 4.- Instalación Hook de formulario (React Form Hook)
 * `npm install react-hook-form`
 * Lo siguiente es instalar un paquete de `npm` que permita manejar el uso y validación de los formularios, para eso se usa el   comando anterior.
+
+## Linters y Formatos  <img src="https://iconape.com/wp-content/files/rh/370852/svg/370852.svg" width="26">&nbsp;&nbsp;<img src="https://iconape.com/wp-content/files/tt/89177/svg/prettier-2.svg" width="22">&nbsp;&nbsp;<img src="https://www.flaticon.es/svg/vstatic/svg/2111/2111320.svg?token=exp=1620774343~hmac=cb5d65f49afd803a6c5c2a931cffbbcb" width="22">
+
+1.- 
